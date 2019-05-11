@@ -1,0 +1,5 @@
+/*update country
+SET Language = 'Indian'
+where Name='India'*/
+
+SELECT * from country
